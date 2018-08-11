@@ -8,6 +8,8 @@ Setup:
 3. Need STS and java 1.8
 4. MySQL server as well as MySql Client
 
+5. http://way2learnonline.com/browseCourses.htm
+
 
 Theory:
  
