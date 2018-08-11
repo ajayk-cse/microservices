@@ -1,0 +1,13 @@
+Setup:
+
+1.Link given by Siva(Trainer): http://resources.way2learnonline.com/micro/
+	
+2. Download these two projects from above link:
+	lab-docs-pdf-jan2018.zip
+	micro-ws-may2018.zip
+3. Need STS and java 1.8
+4. MySQL server as well as MySql Client
+
+
+Theory:
+ 
